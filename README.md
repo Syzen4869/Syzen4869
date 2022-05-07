@@ -1,16 +1,62 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/u8jong5bYNHGg/giphy.gif" width="500"/>
+</div>
 
-<!--
-**Syzen4869/Syzen4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="linkedin.com/in/lê-phúc-minh-b06179199">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="leminh11899@gmail.com">
+      <img src="https://img.shields.io/badge/G-Mail-red?logo=email&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/SYZEN4869/header_photo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div id="view_counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Syzen4869&style=flat-square&color=blue" alt="View Counter"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+  <h1>
+  Hello There !
+  </h1>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400px"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+- :telescope: Currently learning for front-end web development. Will planning to become a full-stack dev in the future and creating my own business/company.
+
+- :zap: I have a huge interests in coding/programming and business in general.
+
+- :mailbox: Contact me: [![Gmail Badge](https://img.shields.io/badge/G-Mail-red?logo=email&logoColor=white&style=for-the-badge)](leminh11899@gmail.com)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Syzen4869&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syzen4869&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div id="footer" align="center">
+  <img src="https://media.giphy.com/media/1pwbkPjqMaBnG/giphy.gif" width="400"/>
+</div>
+
