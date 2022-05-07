@@ -20,7 +20,7 @@
 ---
 
   <h1>
-  Hello There !
+  Hello There !!
   </h1>
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400px"/>
 </div>
@@ -28,7 +28,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: Currently learning for front-end web development. Will planning to become a full-stack dev in the future and creating my own business/company.
+- :telescope: Currently learning about Front-end Web development. Will planning to become a full-stack dev in the future and creating my own business/company.
 
 - :zap: I have a huge interests in coding/programming and business in general.
 
