@@ -9,7 +9,7 @@
   <a href="leminh11899@gmail.com">
       <img src="https://img.shields.io/badge/G-Mail-red?logo=email&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/SYZEN4869/header_photo">
+  <a href="https://twitter.com/SYZEN4869">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
