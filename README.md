@@ -15,7 +15,7 @@
 </div>
 
 <div id="view_counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syzen4869&style=flat-square&color=blue" alt="View Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Syzen4869&style=for-the-badge&color=red" alt="View Counter"/>
 
 ---
 
