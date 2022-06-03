@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/l%C3%AA-ph%C3%BAc-minh-b06179199/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:leminh11899@gmail.com">
+  <a href="leminh11899@gmail.com">
       <img src="https://img.shields.io/badge/G-Mail-red?logo=email&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/SYZEN4869">
