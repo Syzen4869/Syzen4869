@@ -32,7 +32,7 @@
 
 - :zap: I have a huge interests in coding/programming and business in general.
 
-- :mailbox: Contact me: [![Gmail Badge](https://img.shields.io/badge/G-Mail-red?logo=email&logoColor=white&style=for-the-badge)](leminh11899@gmail.com)
+- :mailbox: Contact me: [![Gmail Badge](https://img.shields.io/badge/G-Mail-red?logo=email&logoColor=white&style=for-the-badge)](mailto:leminh11899@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
