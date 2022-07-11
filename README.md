@@ -12,6 +12,9 @@
   <a href="https://twitter.com/syzen4869">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/pminh4869">
+    <img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
 </div>
 
 <div id="view_counter" align="center">
