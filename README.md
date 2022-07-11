@@ -55,9 +55,11 @@
 ---
 
 ### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Syzen4869&theme=Javascript-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Syzen4869&theme=noctis-minimus&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=000000&stroke=00FFFC&border=000000&ring=F1FF06&fire=F9FF00&currStreakNum=03DDD1&sideNums=00DDD8&currStreakLabel=00DDC0&sideLabels=00DDCF&dates=FEFF00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syzen4869&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syzen4869&count_private=true&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syzen4869&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
