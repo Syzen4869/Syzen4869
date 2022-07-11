@@ -31,9 +31,9 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: Currently learning about Front-end Web development. Will planning to become a full-stack dev in the future and creating my own business/company.
+- :telescope: Currently learning about Front-end Web development. Will planning to become a full-stack dev in the future (or maybe becoming a blockchain dev ?) and creating my own business/company.
 
-- :zap: I have a huge interests in coding/programming and business in general.
+- :zap: I have a huge interests in coding/programming, business and crypto in general.
 
 - :mailbox: Contact me: [![Gmail Badge](https://img.shields.io/badge/G-Mail-red?logo=email&logoColor=white&style=for-the-badge)](mailto:leminh11899@gmail.com)
 ---
